@@ -389,8 +389,8 @@ __webpack_require__.r(__webpack_exports__);
 
 var Global = /** @class */ (function () {
     function Global() {
-        // baseUrl = 'http://localhost:8083/genedesk';
-        this.baseUrl = 'http://localhost:8083/genedesk';
+        //baseUrl = 'http://localhost:8083/genedesk';
+        this.baseUrl = 'http://helpdesk.gene.co.zw:8080/genedesk';
     }
     Global = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])()
